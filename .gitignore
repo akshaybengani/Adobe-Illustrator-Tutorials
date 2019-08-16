@@ -1,0 +1,13 @@
+
+# Created by https://www.gitignore.io/api/adobe
+# Edit at https://www.gitignore.io/?templates=adobe
+
+### Adobe ###
+# Adobe Source Files
+*.psd
+*.ai
+*.indd
+*.prproj
+*.aep
+
+# End of https://www.gitignore.io/api/adobe

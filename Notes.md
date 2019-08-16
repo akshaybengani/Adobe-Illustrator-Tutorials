@@ -40,7 +40,8 @@
 10. The inner circles near sides which act as curves can be used to give curves to the shape like changing a square to 1/4 th part of circle.
 11. When you select a particular side of rectangle with direct selection tool you can change the inner circle properties of single side or selected side of the shape.
 12. Handles and anchor points are same we can use them to bend the shape of the object.
-### Create Cuboid Container
+
+### Design Cuboid Container
 <img src="cuboidBox.png" width=100px><br>
 1. Draw a Rectangle or Square make 3 copies of it, one on top and one on right intersecting to the 1st block.
 2. Select the top handles of the top square and bend them towards bottom right.
